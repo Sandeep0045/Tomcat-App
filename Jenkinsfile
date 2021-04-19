@@ -16,10 +16,10 @@ node{
       steps{
             nexusArtifactUploader artifacts: [
                 [
-                  artifactId: 'Tomcat-App', 
-                  classifier: '', 
-                  file: 'target/Tomcat-App-0.0.5.war', 
-                  type: 'war'
+                    artifactId: 'Tomcat-App', 
+                    classifier: '', 
+                    file: 'target/Tomcat-App-0.0.5.war', 
+                    type: 'war'
                ]
             ], 
             credentialsId: 'nexus3', 
