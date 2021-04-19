@@ -18,7 +18,7 @@ node{
                 [
                     artifactId: 'Tomcat-App', 
                     classifier: '', 
-                    file: 'target/Tomcat-App-0.0.5.war', 
+                    file: 'target/myweb-0.0.5.war', 
                     type: 'war'
                ]
             ], 
