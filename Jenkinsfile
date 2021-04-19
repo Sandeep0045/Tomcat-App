@@ -29,7 +29,7 @@ node{
             protocol: 'http', 
             repository: 'tomcat-release-app', 
             version: '0.0.5'
-      }
+     }
    }  
   
   
