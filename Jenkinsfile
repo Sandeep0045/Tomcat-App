@@ -24,7 +24,7 @@ node{
             ], 
             credentialsId: 'nexus3', 
             groupId: 'in.javahome', 
-            nexusUrl: '172.31.77.32', 
+            nexusUrl: '172.31.77.32:8081', 
             nexusVersion: 'nexus3', 
             protocol: 'http', 
             repository: 'tomcat-release-app', 
